@@ -1,11 +1,11 @@
 # CPP-Learning-Notes
 ### C++是C语言的继承，它既可以进行C语言的过程化程序设计，又可以进行以抽象数据类型为特点的基于对象的程序设计，还可以进行以继承和多态为特点的面向对象的程序设计
+![a](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ac919fcefa1fbe09185ec4165b610c30/0df431adcbef76099c6c392726dda3cc7cd99e27.jpg)
 ### 目录
    - [基本语法](https://github.com/Kyle-fang/CPP-Learning-Notes/blob/master/README.md#%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95)
    - [基本类型](https://github.com/Kyle-fang/CPP-Learning-Notes/blob/master/README.md#%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B)
       - [转义序列](https://github.com/Kyle-fang/CPP-Learning-Notes/blob/master/README.md#%E8%BD%AC%E4%B9%89%E5%BA%8F%E5%88%97)
-   - [变量](https://github.com/Kyle-fang/CPP-Learning-Notes/blob/master/README.md#%E5%8F%98%E9%87%8F)<br/>
-![a](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ac919fcefa1fbe09185ec4165b610c30/0df431adcbef76099c6c392726dda3cc7cd99e27.jpg)
+   - [变量](https://github.com/Kyle-fang/CPP-Learning-Notes/blob/master/README.md#%E5%8F%98%E9%87%8F)
 ### 基本语法
    ##### C++ 程序可以定义为对象的集合，这些对象通过调用彼此的方法进行交互。现在让我们简要地看一下什么是类、对象，方法、即时变量。  
    - 对象 ：对象具有状态和行为。例如：一只狗的状态 - 颜色、名称、品种，行为 - 摇动、叫唤、吃。对象是类的实例
