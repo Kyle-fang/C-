@@ -1,5 +1,7 @@
 # CPP-Learning-Notes
 ### C++是C语言的继承，它既可以进行C语言的过程化程序设计，又可以进行以抽象数据类型为特点的基于对象的程序设计，还可以进行以继承和多态为特点的面向对象的程序设计
+### 目录
+   - 
 ![a](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ac919fcefa1fbe09185ec4165b610c30/0df431adcbef76099c6c392726dda3cc7cd99e27.jpg)
 ### 基本语法
    ##### C++ 程序可以定义为对象的集合，这些对象通过调用彼此的方法进行交互。现在让我们简要地看一下什么是类、对象，方法、即时变量。  
@@ -30,14 +32,14 @@ wchar_t	| 2 或 4 个字节	| 1 个宽字
 ### 类型转换
    - 见代码
 ### 转义序列
-'\a'   响铃<br/>
-'\n'   换行符<br/>
-'\r'   回车符<br/>
-'\t'    水平制表符（Tab键）<br/>
-'\b'   退格符（BackSpace键）<br/>    
-'\\'   反斜线<br/>
-"\'"   单引号<br/>
-'\"'   双引号<br/>
-'\0'   空字符<br/>
+   - '\a'   响铃<br/>
+   - '\n'   换行符<br/>
+   - '\r'   回车符<br/>
+   - '\t'    水平制表符（Tab键）<br/>
+   - '\b'   退格符（BackSpace键）<br/>    
+   - '\\'   反斜线<br/>
+   - "\'"   单引号<br/>
+   - '\"'   双引号<br/>
+   - '\0'   空字符<br/>
 [这里是代码^^](https://github.com/Kyle-fang/CPP-Learning-Notes/blob/master/main.cpp)
 ## 变量
