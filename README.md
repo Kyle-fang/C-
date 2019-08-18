@@ -26,5 +26,18 @@ unsigned long int	| 8 个字节	| 0 to 18,446,744,073,709,551,615
 float	| 4 个字节	| +/- 3.4e +/- 38 (~7 个数字)
 double	| 8 个字节	| +/- 1.7e +/- 308 (~15 个数字)
 long double	| 16 个字节	| +/- 1.7e +/- 308 (~15 个数字)
-wchar_t	| 2 或 4 个字节	| 1 个宽字符  
+wchar_t	| 2 或 4 个字节	| 1 个宽字
+### 类型转换
+   - 见代码
+### 转义序列
+'\a'   响铃<br/>
+'\n'   换行符<br/>
+'\r'   回车符<br/>
+'\t'    水平制表符（Tab键）<br/>
+'\b'   退格符（BackSpace键）<br/>    
+'\\'   反斜线<br/>
+"\'"   单引号<br/>
+'\"'   双引号<br/>
+'\0'   空字符<br/>
 [这里是代码^^](https://github.com/Kyle-fang/CPP-Learning-Notes/blob/master/main.cpp)
+## 变量
