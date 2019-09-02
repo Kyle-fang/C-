@@ -1,4 +1,8 @@
 # CPP-Learning-Notes
+## 程序设计
+   - 程序设计：规划或安排一项任务或事件的执行顺序
+   - 计算机程序：由计算机执行的指令集
+
 ### C++是C语言的继承，它既可以进行C语言的过程化程序设计，又可以进行以抽象数据类型为特点的基于对象的程序设计，还可以进行以继承和多态为特点的面向对象的程序设计
 ![a](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=ac919fcefa1fbe09185ec4165b610c30/0df431adcbef76099c6c392726dda3cc7cd99e27.jpg)
 ### 目录
