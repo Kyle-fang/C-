@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\cpp\变量和基本类型\变量和基本类型\main.cpp(41): warning C4305: “初始化”: 从“int”到“bool”截断
+e:\cpp\变量和基本类型\变量和基本类型\main.cpp(45): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\cpp\变量和基本类型\变量和基本类型\main.cpp(49): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\cpp\变量和基本类型\变量和基本类型\main.cpp(53): warning C4305: “初始化”: 从“int”到“signed char”截断
+e:\cpp\变量和基本类型\变量和基本类型\main.cpp(53): warning C4309: “初始化”: 截断常量值
+  变量和基本类型.vcxproj -> E:\CPP\变量和基本类型\Debug\变量和基本类型.exe

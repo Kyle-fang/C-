@@ -1,0 +1,12 @@
+﻿  main.cpp
+e:\cpp\if语句\if语句\main.cpp(21): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+e:\cpp\if语句\if语句\main.cpp(21): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+e:\cpp\if语句\if语句\main.cpp(25): error C2059: 语法错误:“{”
+e:\cpp\if语句\if语句\main.cpp(25): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\cpp\if语句\if语句\main.cpp(25): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\cpp\if语句\if语句\main.cpp(25): error C2059: 语法错误:“:”
+e:\cpp\if语句\if语句\main.cpp(27): error C2059: 语法错误:“{”
+e:\cpp\if语句\if语句\main.cpp(27): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+e:\cpp\if语句\if语句\main.cpp(27): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+e:\cpp\if语句\if语句\main.cpp(27): error C2059: 语法错误:“:”
+e:\cpp\if语句\if语句\main.cpp(29): warning C4060: switch 语句没有包含“case”或“default”标签
