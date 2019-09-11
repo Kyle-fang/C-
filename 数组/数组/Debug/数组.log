@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\cpp\数组\数组\main.cpp(19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\cpp\数组\数组\main.cpp(14): warning C4101: “j”: 未引用的局部变量
+  数组.vcxproj -> E:\CPP\数组\Debug\数组.exe

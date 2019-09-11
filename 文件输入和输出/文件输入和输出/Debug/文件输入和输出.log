@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\cpp\文件输入和输出\文件输入和输出\main.cpp(41): warning C4305: “初始化”: 从“double”到“float”截断
+  文件输入和输出.vcxproj -> E:\CPP\文件输入和输出\Debug\文件输入和输出.exe
